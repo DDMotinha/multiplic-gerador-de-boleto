@@ -1,0 +1,2 @@
+[11-Nov-2020 20:00:18 America/Sao_Paulo] PHP Warning:  copy(): Filename cannot be empty in /home/multiplicfibra/public_html/boleto/src/controller/envia_foto.php on line 10
+[12-Nov-2020 19:06:25 America/Sao_Paulo] PHP Warning:  copy(): Filename cannot be empty in /home/multiplicfibra/public_html/boleto/src/controller/envia_foto.php on line 10
